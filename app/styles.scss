@@ -1,0 +1,16 @@
+.welcome {
+    padding: 60px;
+    .welcome--logo {
+        max-width: 200px;
+        margin: 0 auto;
+        img {
+            max-width: 100%;
+        }
+    }
+    .welcome--content {
+        padding-top: 30px;
+        font-size: 42px;
+        line-height: 42px;
+        text-align: center;
+    }
+}
