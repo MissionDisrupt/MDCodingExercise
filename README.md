@@ -17,3 +17,7 @@ You are to create a responsive website that looks as close as possible to the im
 **Developing**
 
 The starter project uses the Brunch build tool. To use brunch you must first install the local dependencies of this project by running `npm install` in the root of this directory. You also need the Brunch command line tool. You can get that by running `npm install -g brunch`. Your HTML file lives at `app/assets/index.html`. Your SASS files live in `app/styles.scss`. You can add Javascript to `app/initialize.js`. To build the project, run `brunch build` in the root of the project. To have your code recompile as you are developing, just run `brunch watch` in the root of the project. This project ships with Font Awesome and Bootstrap 4. If you don't want to use Bootstrap that is fine. Feel free to remove the `link` and `script` tags in the `index.html` file.
+
+Email Us to recieve the design files to begin.
+Design Notes:
+Hover Effect Badge.png is the image that should show up when a user hovers one of the five categories in the design.
