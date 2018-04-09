@@ -20,4 +20,5 @@ The starter project uses the Brunch build tool. To use brunch you must first ins
 
 Email Us to recieve the design files to begin.
 Design Notes:
-Hover Effect Badge.png is the image that should show up when a user hovers one of the five categories in the design.
+-Hover Effect Badge.png is the image that should show up when a user hovers one of the five categories in the design.
+-Feel free to use dummy text.
